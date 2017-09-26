@@ -1,8 +1,11 @@
 # Hello-World
-Learning how to use my GitHub
 
+Learning how to use GitHub.
 
 Source: https://guides.github.com/activities/hello-world/
 
+My name is Rajiv. 
 
-My name is Rajiv. I am an Aspiring to be a Data Scientist.
+Data Scientist.
+
+This is my Github account.
